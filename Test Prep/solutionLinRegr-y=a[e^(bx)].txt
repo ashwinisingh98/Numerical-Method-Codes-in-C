@@ -1,0 +1,9 @@
+
+The values of a and b are : 6.314431	-0.008248
+
+The Required Linear Relation is : 
+
+log(y) = (6.314431)+(-0.008248)x
+
+OR
+y = (552.487710)*e^((-0.008248)x)
