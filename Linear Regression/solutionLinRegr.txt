@@ -1,0 +1,6 @@
+
+The values of a and b are : -0.284667	1.096000
+
+The Required Linear Relation is : 
+
+y=-0.284667+1.096000x
